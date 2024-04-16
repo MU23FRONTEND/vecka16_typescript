@@ -33,6 +33,8 @@ Inga filmer pubicerade ännu
 - [TypeScript - dokumentation](https://www.typescriptlang.org/docs/)
 - [TypeScript med W3Schools](https://www.w3schools.com/typescript/typescript_intro.php)
 
+## Resurser
+I [detta gitrepo](https://github.com/MU23FRONTEND/typescript_template) hittar ni ett template för en Typescript-setup där allt är konfigurerat och klart. Allt ni behöver göra för att komma igång är dra hem repot till er dator, ställa er i projektmappen, öppna terminalen och skriva ```npm i```. Därefter så kompilerar ni er kod genom att i ert CLI skriva ```tsc``` eller ```tsc --watch```.
  
 ## Övningar
 Hittar ni i mappen [Övningar](./Övningar/).
