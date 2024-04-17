@@ -2,12 +2,12 @@
 
 # DOM exercises
 ## Kom igång
-Ladda ner sinus minishop. All din kod ska skrivas i *script.js*.
+Ladda ner sinus minishop. All din kod ska skrivas i *script.ts*.
 I denna övning kommer du få öva på:
 
 - Leta reda på saker i DOM och ändra innehåll
 - Lyssna efter events på olika element
-- Lägga till ny HTML med JS
+- Lägga till ny HTML med TS
 
 
 ## DOM Selecta!
