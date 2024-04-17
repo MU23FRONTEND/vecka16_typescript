@@ -1,7 +1,7 @@
-# Vecka 15 - Tema: CSS
+# Vecka 15 - Tema: TypeScript
 
 ## Meddelande
-Hallå där! Nu är vi äntlign framme i ett moment där vi får börja koda på riktigt igen! Denna vecka kommer vi att framförallt dyka in i TypeScript, men även kika lite snabbt på föregångaren JavaScript och jämföra de två för att kunna belysa det fina med TypeScript. Vi kommer att inleda med att lära oss syntaxen, titta på Typer inom TypeScript, och förhoppningsvis även hinna med att dyka in i DOM:en så att vi på riktigt kan skapa dynamiska och interaktiva webbsidor. NOTERA att videon gällande Arrayer demonstrerar exempel i vanlig JavaScript, men principerna är desamma. 
+Hallå där! Nu är vi äntligen framme i ett moment där vi får börja koda på riktigt igen! Denna vecka kommer vi att framförallt dyka in i TypeScript, men även kika lite snabbt på föregångaren JavaScript och jämföra de två för att kunna belysa det fina med TypeScript. Vi kommer att inleda med att lära oss syntaxen, titta på Typer inom TypeScript, och förhoppningsvis även hinna med att dyka in i DOM:en så att vi på riktigt kan skapa dynamiska och interaktiva webbsidor. NOTERA att videon gällande Arrayer demonstrerar exempel i vanlig JavaScript, men principerna är desamma. 
 
 Jag har dessutom fyllt på Övningsmappen med Bootcamps för Arrayer, Funktioner och Objekt än så länge. Alla dessa tre är SUPERviktiga att vi lär oss hyffsat snabbt för att överhuvudtaget kunna programmera för webben, så se till att göra dem. Vi kommer att gå igenom vissa av övningarna under tisdagen.
 
@@ -19,10 +19,15 @@ Jag har dessutom fyllt på Övningsmappen med Bootcamps för Arrayer, Funktioner
 - [Funktioner](https://vimeo.com/916654005/37d6ce2816?share=copy)
 
 #### Till torsdag
-Inga filmer pubicerade ännu
+- [Introduktion DOM](https://vimeo.com/927587486/2cb57ea7be?share=copy)
+- [Påverka DOMen med kod](https://vimeo.com/927588263/2cb36d151c?share=copy)
+- [Händelselyssnare](https://vimeo.com/927588037/70f4a2e049?share=copy)
+- [Skapa Dynamisk HTML med kod](https://vimeo.com/927587771/27b06fdad1?share=copy)
 
 ### Liveinspelningar
-Inga filmer pubicerade ännu
+- [Tisdag förmiddag](https://vimeo.com/935823324/a58965b022?share=copy)
+- [Tisdag eftermiddag del 1](https://vimeo.com/935823382/182d7b131f?share=copy)
+- [Tisdag eftermiddag del 2](https://vimeo.com/935823275/75a9cbb540?share=copy)
 
 ### YouTube
 - [TypeScript Tutorial](https://www.youtube.com/watch?v=BCg4U1FzODs)
