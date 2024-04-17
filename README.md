@@ -25,7 +25,9 @@ Jag har dessutom fyllt på Övningsmappen med Bootcamps för Arrayer, Funktioner
 - [Skapa Dynamisk HTML med kod](https://vimeo.com/927587771/27b06fdad1?share=copy)
 
 ### Liveinspelningar
-Inga filmer pubicerade ännu
+- [Tisdag förmiddag](https://vimeo.com/935823324/a58965b022?share=copy)
+- [Tisdag eftermiddag del 1](https://vimeo.com/935823382/182d7b131f?share=copy)
+- [Tisdag eftermiddag del 2](https://vimeo.com/935823275/75a9cbb540?share=copy)
 
 ### YouTube
 - [TypeScript Tutorial](https://www.youtube.com/watch?v=BCg4U1FzODs)
