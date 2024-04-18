@@ -73,25 +73,37 @@ window.addEventListener('load', () : void => {
 
     movies.forEach(movie => {
         const articleRef = document.createElement('article') as HTMLElement;
-        articleRef.classList.add('card');
+        // articleRef.classList.add('card');
 
-        const headingRef = document.createElement('h2') as HTMLHeadingElement;
-        headingRef.textContent = movie.title;
-        articleRef.appendChild(headingRef);
+        // const headingRef = document.createElement('h2') as HTMLHeadingElement;
+        // headingRef.textContent = movie.title;
+        // articleRef.appendChild(headingRef);
 
-        const imgRef = document.createElement('img');
-        imgRef.src = movie.poster;
-        imgRef.alt = `Poster for the movie ${movie.title}`;
-        articleRef.appendChild(imgRef);
+        // const imgRef = document.createElement('img');
+        // imgRef.src = movie.poster;
+        // imgRef.alt = `Poster for the movie ${movie.title}`;
+        // articleRef.appendChild(imgRef);
 
-        const linkRef = document.createElement('a');
-        linkRef.href = movie.trailer_link;
-        linkRef.textContent = 'Watch Trailer';
-        articleRef.appendChild(linkRef);
+        // const linkRef = document.createElement('a');
+        // linkRef.href = movie.trailer_link;
+        // linkRef.textContent = 'Watch Trailer';
+        // articleRef.appendChild(linkRef);
 
-        console.log(articleRef);
+        const articleTemplate = `
+            <article class="card">
+                <h2>${movie.title}</h2>
+                <img src="${movie.poster}" alt="Poster for the movie ${movie.title}">
+                <a href="${movie.trailer_link}">WATCH TRAILER</a>
+            </article> 
+        `;
+
+        articleRef.innerHTML = articleTemplate;
+
+        // console.log(articleRef);
         cardSectionRef.appendChild(articleRef);
     });
+
+
     
 
 //     <article class="card">
