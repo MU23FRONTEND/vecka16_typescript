@@ -28,6 +28,9 @@ Jag har dessutom fyllt på Övningsmappen med Bootcamps för Arrayer, Funktioner
 - [Tisdag förmiddag](https://vimeo.com/935823324/a58965b022?share=copy)
 - [Tisdag eftermiddag del 1](https://vimeo.com/935823382/182d7b131f?share=copy)
 - [Tisdag eftermiddag del 2](https://vimeo.com/935823275/75a9cbb540?share=copy)
+- [Torsdag förmiddag](https://vimeo.com/936559679/cafcd9bf3e?share=copy)
+- [Torsdag eftermiddag del 1](https://vimeo.com/936559619/9408c5fb21?share=copy)
+- [Torsdag eftermiddag del 2](https://vimeo.com/936559638/a43b9806e9?share=copy)
 
 ### YouTube
 - [TypeScript Tutorial](https://www.youtube.com/watch?v=BCg4U1FzODs)
